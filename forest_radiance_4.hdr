@@ -1,0 +1,7 @@
+#?RADIANCE
+# Output from cmft.
+FORMAT=32-bit_rle_rgbe
+EXPOSURE=1
+
+-Y 16 +X 32
+f}°f}°f}°f}°f}°f}°f}°f}°f}°f}°f}°f}°f}°f}°f}°f}°f}°f}°f}°f}°f}°f}°f}°f}°f}°f}°f}°f}°f}°f}°f}°f}°K`ƒŽ¶÷€‡®ë€‚¨â€€¦ß€ƒ©â€†¬æ€‹±ì€‘·ô€L`€Qe‡Xl‘^s›g}©p‡¹y‘Ê‚›ÚŠ¥ê‘­øKZ‚‚L[ƒ‚KZ‚‚“¯ý©ô†¡è|—Ùr‹Èf~µ^u¦Wm™QfK`ƒh‰¬€Yy”€Sq‰€UtŽ€Xw•€Z{€]~¦€^~¥€`€¥€dƒ©€n³€~žÈ€–¸ê€ZlŒk€©–Ë“­îSb‰‚Xf‚\j–‚_n‚br¤‚cs§‚^nŸ‚Wg•‚O^‰‚Œ§ðwËaw¤•¼û€x›È€h‰¬€™Îêyª·y¬¹{¯¿³Â„¸Ì‰¿à‹Áðˆ¼ð‡¸íŒ¹àŸÊçd}€¬Ñ€`s”x¼Ž¦Þ ¸ôWc‚‚bn‘‚n{£‚t®‚w†º‚t…»‚o€·‚ev©‚Wf’‚Œ§ëh~¬”¹ð€_|“€™Îêr•¨[~c‹Ÿi”–g‘„gŽ}f†{t—¢zžºr”³cƒšq›žÅÜ~›»€atŽ~¨¦°¼êåÙÑÔàyz‚‚{€’‚†£‚gn‡‚blŒ‚ivž‚p¯‚hy«‚TcŠ‚xÃŠ¨Ñ€«×ûr•¨~›²^{Œn”®‚±Ìz£¢v—‘}›‹«¼®Ê~›¶dzŠ®Ñä~Zk€Š£Ã€ÂÜù€—›éáÊË¶“‚~bƒ¡Œnƒ³¥’‚Ä¿½‰ŽžŒ©“£Î¤¸ðZfˆ‚Yg‹‚‚—Â¬Éö€ex€~›²|‘›Èóú~|›¥žÊÛ ËÒ“µ¹Œ§¯‹¤²‚š«n‚Ž¡½¿~{~|žÈäû©­€‚‚xðÞ¶âÅ–‚©kƒÀ£zƒ“ƒi‚ùìÍ€ Ÿ€”ž­€ª»Ø€¸Ì÷€gs‘sƒ§kz”Ÿ´Õ€¾Ùõ|‘›ÑåË~Ëà·~‚’ »­Ÿ½¯¤›|ˆÛõñ~»ÑÊ~•¤•~Ôä«}¢©d}}ˆp~ÎßË~»Àª­§Š€¬›v ‰d‚â¾‰‚äÀŠ‚Ž~]â×¤“—‚•˜¤¦™¦¯¨¸ÌÄÚör~‹€ÅØç…’‘ÑåË~©¦k~¾ºq~êå—~ƒ_ëù¹~ÊÓ¡~­¯‡~•’m~ƒ}X~áÎ‚}½¤X}©D}¸¥]}êÞ˜}µ®‚~šl~[€óÏ‘€šYƒmKa™l~|d~ƒp~‰Œ|~’“„~œ~¤¦•~ÅÊ¶~ÂÄª~¨§~~©¦k~—†I~¦”O~º¤^~¹¤g~§—d~œŽ_~‘T~ˆtG~‚j>~öÃl}ê³b}æ¯b}íºq}ôÊ„}‰wS~¬˜m~ðÒ•~¦Œa§Œ_¬‘a~® l}ž–h}¡™o}´§}}Î·Š}ñÒ }†tX~ŒwW~•‚\~•ƒ[~M~—†I~Œs?~v?~uC~ƒjC~ùÐ’}kK~lI~ƒjD~…iA~…f@~„e@~ˆhC~qL~tQ~ŽtT~ŒtU~…oR~õÎ—}Å¥y}†rT}nO}’~Y}¤Ša}»šk}Ø¬x}ûÅ‹}ŒmM~—vQ~|Q~‘uJ~‹qB~Œs?~ýÆw}÷Át}èµq}·’h}­l}°–w}×·Œ}æÀ}ðÅ‘}öÇ‘}êÄ™}ûÑ¡}‡pU~vY~™|[~’wX~€iO~Ï¬…}–g}€lW}„lT}‘tV}±c}Èœm}à¬x}ô»„}á°‚}ã²‚}å²~}„fB~€d>~ýÆw}«ˆa}«‡`}§†b}£…d}¡‡i}¢‹p}¨“x}°š}º£†}Ä«Œ}Ï´’}Ù»—}äÄœ}êÇž}èÅ}Û»–}Â¦‰}§‘z}Ž}k}o`}÷Õ´|€lY}‡p[}“zb}Ÿ„j}§Šo}ªŒp}ª‹n}¨‰i}©ˆe}¨†a}«ˆa}”{a}•|b}–~c}˜€f}™ƒi}œ‡m}žŠr}¤w}ª•{}®™}³žƒ}· …}·¡†}µŸ…}¯šƒ}§“~}›Šx}Žp}†xj}€re}öÛÃ|ðÖ¾|òÖ¾|þßÂ|ƒsc}‡ve}Œxe}ze}zd}yb}’za}”{a}‹xe}Œze}Ž{f}Ž|g}}i}’€k}”‚m}–„o}˜†q}™‡r}™‡s}˜‡s}—†s}–…s}”„r}‘p}~n}ˆzk}„vi}rf}üâÉ|üâÈ|þâÇ|€qc}rc}‚rc}‚sc}ƒsc}…tc}‡vc}‰wd}‹xe}‰yi}‰yi}‰yi}‰yi}‰yi}‰yi}‰yi}‰yi}‰yi}‰yi}‰yi}‰yi}‰yi}‰yi}‰yi}‰yi}‰yi}‰yi}‰yi}‰yi}‰yi}‰yi}‰yi}‰yi}‰yi}‰yi}‰yi}‰yi}‰yi}‰yi}‰yi}‰yi}
